@@ -1,0 +1,10 @@
+Build.PL
+Changes
+lib/TM2/Google.pm
+ontologies/google-site-verification.ts
+MANIFEST			This list of files
+README
+t/manifest.t
+Makefile.PL
+META.yml
+META.json
